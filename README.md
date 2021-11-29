@@ -5,7 +5,7 @@
 <p align="center">Warm mid-tone dark theme to show off your vibrant self!</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/wallpapers/main/waves/wavy_lines_v01_5120x2880.png"/>
 </p>
 
 ## 💝 Thanks to
